@@ -27,7 +27,7 @@
 - Improving UI/UX skills with Tailwind
 
 📫 **How to reach me:**  
-[LinkedIn](https://www.linkedin.com/in/your-link/) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/kush-gurung-663428295) | [Email](kushgurung05@gmail.com)
 
 ---
 
