@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kush Gurung</h1>
-<h3 align="center">Aspiring Full Stack Developer | Lifelong Learner</h3>
+<h3 align="center">Aspiring Full Stack Developer | QA</h3>
 
 ---
 
