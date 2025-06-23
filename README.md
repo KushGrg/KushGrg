@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Kush Gurung</h1>
+<h3 align="center">Aspiring Full Stack Developer | Lifelong Learner</h3>
 
-<!--
-**KushGrg/KushGrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔧 **Tech Stack & Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 HTML, CSS (Tailwind)
+- 🌐 Laravel, PHP, Flask, Python
+- 🛠️ MySQL, SQLite, SQL
+- ☕ Java (Basics)
+- 🧠 Learning and exploring new technologies
+
+---
+
+📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KushGrg&show_icons=true&theme=tokyonight" alt="Kush's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushGrg&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+🌱 **Currently Working On:**
+- A Smart Resume Scanner using Flask + NLP
+- Improving UI/UX skills with Tailwind
+
+📫 **How to reach me:**  
+[LinkedIn](https://www.linkedin.com/in/your-link/) | [Email](mailto:your-email@example.com)
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
