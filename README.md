@@ -23,11 +23,11 @@
 ---
 
 🌱 **Currently Working On:**
-- A Smart Resume Scanner using Flask + NLP
-- Improving UI/UX skills with Tailwind
+- A Smart Resume Scanner using Laravel/Livewire, MySql and for algorithm used TF-IDF and Cosine Simarility
+- Improving UI/UX skills using Mary UI tempate and Daisy UI
 
 📫 **How to reach me:**  
-[LinkedIn](https://www.linkedin.com/in/kush-gurung-663428295) | [Email](kushgurung05@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kush-gurung) | [Email](kushgurung05@gmail.com)
 
 ---
 
