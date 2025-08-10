@@ -8,7 +8,7 @@
 - 💻 HTML, CSS (Tailwind)
 - 🌐 Laravel, PHP, Flask, Python
 - 🛠️ MySQL, SQLite, SQL
-- ☕ Java (Basics)
+- ☕ Java
 - 🧠 Learning and exploring new technologies
 
 ---
