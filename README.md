@@ -6,7 +6,7 @@
 🔧 **Tech Stack & Skills**
 
 - 💻 HTML, CSS (Tailwind)
-- 🌐 Laravel, PHP, Flask, Python
+- 🌐 Laravel | Livewire, PHP, Flask, Python
 - 🛠️ MySQL, SQLite, SQL
 - ☕ Java
 - 🧠 Learning and exploring new technologies
