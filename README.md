@@ -23,7 +23,7 @@
 ---
 
 🌱 **Currently Working On:**
-- A Smart Resume Scanner using Laravel/Livewire, MySql and for algorithm used TF-IDF and Cosine Simarility
+- A Smart Resume Scanner using Laravel/Livewire, Sqlite and for algorithm used TF-IDF and Cosine Simarility
 - Improving UI/UX skills using Mary UI tempate and Daisy UI
 
 📫 **How to reach me:**  
