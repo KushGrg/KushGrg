@@ -7,7 +7,7 @@
 
 - 💻 HTML, CSS (Tailwind)
 - 🌐 Laravel | Livewire, PHP, Flask, Python
-- 🛠️ MySQL, SQLite, SQL, PostgreSQL
+- 🛠️ MySQL, SQLite, SQL
 - ☕ Java
 - 🧠 Learning and exploring new technologies
 
