@@ -7,7 +7,7 @@
 
 - 💻 HTML, CSS (Tailwind)
 - 🌐 Laravel | Livewire, PHP, Flask, Python
-- 🛠️ MySQL, SQLite, SQL
+- 🛠️ MySQL, SQLite, SQL, PostgreSQL
 - ☕ Java
 - 🧠 Learning and exploring new technologies
 
@@ -25,6 +25,7 @@
 🌱 **Currently Working On:**
 - A Smart Resume Scanner using Laravel/Livewire, Sqlite and for algorithm used TF-IDF and Cosine Simarility
 - Improving UI/UX skills using Mary UI tempate and Daisy UI
+  
 
 📫 **How to reach me:**  
 [LinkedIn](https://www.linkedin.com/in/kush-gurung) | [Email](kushgurung05@gmail.com)
