@@ -31,7 +31,7 @@
 [LinkedIn](https://www.linkedin.com/in/kush-gurung) | [Email](kushgurung05@gmail.com)
 ---
 Ask For Any Help😉.
-Goodbye 
+
 
 ---
 
