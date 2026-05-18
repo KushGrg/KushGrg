@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kush Gurung</h1>
-<h3 align="center">Aspiring Full Stack Developer 
+<h3 align="center"> Full Stack Developer 
  Laravel, Livewire</h3>
 
 ---
